@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi I'm Das Shiv 👋  
 
-<!--
-**DasShiv-3108/DasShiv-3108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a DevOps Fresher passionate about learning and building real-world DevOps solutions.
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+- DevOps Fresher
+- Learning Linux, Docker, Git & GitHub
+- CI/CD basics using Jenkins
+- Cloud fundamentals (AWS)
+- Interested in automation & infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+- Linux
+- Git & GitHub
+- Docker
+- Jenkins (Basics)
+- AWS (Basics)
+- Bash (Basics)
+
+📌 Currently Learning
+- Kubernetes
+- Monitoring basics (Prometheus & Grafana)
+
+🚀 Goal
+To become a skilled DevOps Engineer by building projects and learning industry best practices.
+
+✨ I believe in learning by doing.
