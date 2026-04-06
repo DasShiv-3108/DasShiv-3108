@@ -88,6 +88,6 @@ goal     : "Automate, Deploy, Monitor, Improve"
 
 ---
 
-![snake animation](https://github.com/<seu DasShiv-3108>/<seu DasShiv-3108>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/DasShiv-3108>/<DasShiv-3108>/blob/output/github-contribution-grid-snake2.svg)
 
 
