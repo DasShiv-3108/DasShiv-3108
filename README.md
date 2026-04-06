@@ -65,15 +65,6 @@ goal     : "Automate, Deploy, Monitor, Improve"
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=DasShiv-3108&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -98,4 +89,6 @@ goal     : "Automate, Deploy, Monitor, Improve"
 ---
 
 <!-- VISITOR COUNTER -->
+
+
 
