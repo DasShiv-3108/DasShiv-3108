@@ -88,7 +88,6 @@ goal     : "Automate, Deploy, Monitor, Improve"
 
 ---
 
-<!-- VISITOR COUNTER -->
-
+[![snake animation](https://github.com/<seu DasShiv-3108>/<seu DasShiv-3108>/blob/output/github-contribution-grid-snake2.svg)]
 
 
