@@ -18,7 +18,7 @@
 
 ```yaml
 name     : Das Shiv
-role     : Web Developer in Making 🚀
+role     : DevOps Engineer in Making 🚀
 location : Delhi, India 🇮🇳
 learning : ["Terraform", "Ansibile", "Everything I can!"]
 goal     : "Automate, Deploy, Monitor, Improve"
